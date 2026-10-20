@@ -14,8 +14,8 @@ Los datos vienen de 3 dataset `plans`, `users`, `usage` incluyen 2 tipos de plan
 Haz clic en el siguiente botón:
 
 [![Open In Colab](https://colab.research.google.com/drive/1wPDoWJI3j9jFbbK_deHRz-n3sxxdRxKq?usp=sharing)]
-O:
 
+O:
 1. Abre el archivo `.ipynb` en GitHub
 2. Haz clic en **Open in Colab**
 
